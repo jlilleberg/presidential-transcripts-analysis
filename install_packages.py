@@ -26,15 +26,18 @@ pip_packages = ["adjustText",
 				"scikit-learn", 
 				"scipy", 
 				"seaborn",
+				"selenium",
 				"spacy", 
 				"statsmodels", 
 				"text2num",
 				"tqdm"] 
 
-path_packages = ["python -m spacy download en_core_web_sm"]  
+path_packages = ["python -m spacy download en_core_web_sm",
+				 'pip install "notebook>=5.3" "ipywidgets>=7.2"']  
 
 for package in pip_packages:
 	pip_install(package)
 
 for package in path_packages:
 	os.system(package)
+
