@@ -1,5 +1,9 @@
 # Presidential Transcripts Analysis (NLP Project)
 
+### In-depth textual analyasis of presidential speeches using various NLP techniques
+
+<image src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/190201-franklin-d-roosevelt-state-of-the-union-ew-536p_9b565230653f1e93942ec31b86f8e6a9.fit-2000w.jpg/1200px-190201-franklin-d-roosevelt-state-of-the-union-ew-536p_9b565230653f1e93942ec31b86f8e6a9.fit-2000w.jpg" width="100%"
+
 The following project examines all presidential transcripts up to Donald's Trump speech on September 25, 2019. The source for the speeches was obtained from https://millercenter.org/the-presidency/presidential-speeches. 
 
 In this project, 992 transcripts were cleaned consisting of 3.8+ million words, or 22+ million characters. This project includes data exploration, sentiment analysis, transcripts generated using neural networks, topic modeling, and visualizations of term associations, empaths, term frequency, topic frequency, and word similarity.
