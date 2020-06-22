@@ -2,7 +2,7 @@
 
 ### In-depth textual analyasis of presidential speeches using various NLP techniques
 
-<p style="align: center">
+<p align="center">
 <image src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/190201-franklin-d-roosevelt-state-of-the-union-ew-536p_9b565230653f1e93942ec31b86f8e6a9.fit-2000w.jpg/1200px-190201-franklin-d-roosevelt-state-of-the-union-ew-536p_9b565230653f1e93942ec31b86f8e6a9.fit-2000w.jpg" width="75%">
   </p>
 
