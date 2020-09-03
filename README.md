@@ -11,6 +11,7 @@ The following project examines all presidential transcripts up to Donald's Trump
 In this project, 992 transcripts were cleaned consisting of 3.8+ million words, or 22+ million characters. This project includes data exploration, sentiment analysis, transcripts generated using neural networks, topic modeling, and visualizations of term associations, empaths, term frequency, topic frequency, and word similarity.
 If you would like to run the code yourself, run the following python script to install the required packages before running any notebooks.
 
+I made the dataset publicly available at https://www.kaggle.com/littleotter/united-states-presidential-speeches.
 ```
 python install_packages.py
 ```
