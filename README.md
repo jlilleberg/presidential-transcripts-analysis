@@ -9,9 +9,6 @@
 The following project examines all presidential transcripts up to Donald's Trump speech on September 25, 2019. The source for the speeches was obtained from https://millercenter.org/the-presidency/presidential-speeches. 
 
 In this project, 992 transcripts were cleaned consisting of 3.8+ million words, or 22+ million characters. This project includes data exploration, sentiment analysis, transcripts generated using neural networks, topic modeling, and visualizations of term associations, empaths, term frequency, topic frequency, and word similarity.
-
-The project can also be seen visually at https://jlilleberg.com/president_project/presidential_project_index.html which is best viewed on desktop.
-
 If you would like to run the code yourself, run the following python script to install the required packages before running any notebooks.
 
 ```
